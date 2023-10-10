@@ -1,0 +1,6 @@
+export const ActionTypes ={
+    SET_MOVIES: 'SET_MOVIES',
+    SET_LOADING: 'SET_LOADING',
+    GET_GENRES:'GET_GENRES',
+    // LIST_MOVIES:"LIST_MOVIES"
+}
